@@ -19,3 +19,9 @@ Note: Test data is contained in the students.txt and courses.txt files. Any atte
 2. Prompting System - The program takes the user through a series of prompts based on categories. This allows for a wide variety of options for users to select in a structured and intuitive way. There are many branches to each option and by prompting the user in a step by step manner, it eases the mental load of bombarding tens of options at once.
 3. User Freedom - When the user goes through the prompts designated in the code, they have the option to enter "back" in order to return to the main prompting selection. This ensures that a user is not forced to commit actions they had no intention of doing.
 4. Linking of Courses and Students - Each student object has a set of courses associated with it just as each course has a set of students associated with it. This makes printing information relevant to each student or course significantly easier. However, when a student adds or drops a course (or a student or course is removed), this means that both the relevant student and course objects must be independently updated, adding a minor redundancy.
+
+## Example Images of the System in Action
+<img width="868" height="195" alt="Screenshot 2025-08-07 at 7 19 54 PM" src="https://github.com/user-attachments/assets/ca496550-de27-404c-868f-9bb6f5cf1d17" />
+<img width="694" height="1008" alt="Screenshot 2025-08-07 at 7 19 14 PM" src="https://github.com/user-attachments/assets/412e2eed-d2a3-45b1-80b4-4452ef3c05ae" />
+<img width="987" height="1105" alt="Screenshot 2025-08-07 at 7 18 59 PM" src="https://github.com/user-attachments/assets/0bbee507-8d82-43f2-8e3a-448fdf8e52a7" />
+<img width="2295" height="929" alt="Screenshot 2025-08-07 at 7 18 18 PM" src="https://github.com/user-attachments/assets/f2a3daab-fda6-4906-86e2-a792e42d0284" />
